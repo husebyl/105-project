@@ -3,4 +3,4 @@ git pw = R....78#
 https:/github.com/husebyl /R....78#
 leigh-github-key empty
 desktop/git-project
-version 1
+version 1.0
